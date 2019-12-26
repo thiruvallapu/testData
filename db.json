@@ -1,0 +1,37 @@
+{
+  "JSR001": [
+    {
+      "id": 1,
+      "name": "Thirumal"
+	  "director": 0,
+	  "countryOfBirth": "India"
+    },
+    {
+      "id": 2,
+      "name": "Sopal"
+	  "director": 0,
+	  "countryOfBirth": "India"
+    },
+    {
+      "id": 3,
+      "name": "Tiwari"
+	  "director": 0,
+	  "countryOfBirth": "Saudi"
+    }
+  ],
+  "JSR002": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
