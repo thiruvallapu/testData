@@ -2,19 +2,19 @@
   "JSR001": [
     {
       "id": 1,
-      "name": "Thirumal"
+      "name": "Thirumal",
 	  "director": 0,
 	  "countryOfBirth": "India"
     },
     {
       "id": 2,
-      "name": "Sopal"
+      "name": "Sopal",
 	  "director": 0,
 	  "countryOfBirth": "India"
     },
     {
       "id": 3,
-      "name": "Tiwari"
+      "name": "Tiwari",
 	  "director": 0,
 	  "countryOfBirth": "Saudi"
     }
